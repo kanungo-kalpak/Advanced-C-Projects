@@ -1,5 +1,4 @@
-# Advanced-Python-Projects
+# Advanced-C-Projects
 
-Speech emotion recognition, the best ever python mini project. The best example of it can be seen at call centers. If you ever noticed, call centers employees never talk in the same manner, their way of pitching/talking to the customers changes with customers. Now, this does happen with common people too, but how is this relevant to call centers? Here is your answer, the employees recognize customers’ emotions from speech, so they can improve their service and convert more people. In this way, they are using speech emotion recognition. So, let’s discuss this project in detail.
-
-Speech emotion recognition is a simple Python mini-project, which you are going to practice with DataFlair. 
+Each computer which is connected to the network has an identifier to recognise connected computer address, known as IP (Internet Protocol) Address.
+An IPv4 has 4 octets having decimal value between 0 to 255 and depending on the first octet’s value, IP Addresses divided into 5 classes
